@@ -9,9 +9,11 @@ function Body(){
                 search OUtput will be here
             </div>
             <div>
-                <Input />
-                <VoiceSearchButton />
-                <SubmitButton/>
+                <div className="flex">
+                    <Input />
+                    <VoiceSearchButton />
+                    <SubmitButton/>
+                </div>
             </div>
         </div>
     )
