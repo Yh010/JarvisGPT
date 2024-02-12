@@ -1,3 +1,5 @@
+For deploying backend for free: use cloudflare workers
+
 chatgpt free:
 https://www.analyticsinsight.net/ways-to-access-chatgpt-plus-account-for-free/
 
