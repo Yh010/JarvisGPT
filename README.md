@@ -1,3 +1,6 @@
+additional usecase: 
+can use this project as live lecture chat for clearing student doubts
+
 For deploying backend for free: use cloudflare workers
 
 chatgpt free:
