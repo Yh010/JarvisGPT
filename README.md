@@ -3,6 +3,8 @@ can use this project as live lecture chat for clearing student doubts
 
 For deploying backend for free: use cloudflare workers
 
+transcribing audio: whisper AI : https://www.youtube.com/watch?v=8SQV-B83tPU
+
 chatgpt free:
 https://www.analyticsinsight.net/ways-to-access-chatgpt-plus-account-for-free/
 
